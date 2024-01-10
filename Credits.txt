@@ -1,0 +1,146 @@
+//-------------------------------------------
+Original Credits file by Mortis
+//-------------------------------------------
+Hello! I made this pack largely out of a desire to cram as many of NMN's
+wonderful creations into a monster pack as I can while following a consistent
+theme. In places where NMN didn't have sprites I could use, I opted to use
+the closest equivalent I could find, ideally something that had that 
+pre-rendered "shine" to it like NMN's own sprites, or at least followed the
+pack's theme.
+
+If I am using assets of yours in this pack that you do not want me using,
+please contact me and I will make the necessary corrections ASAP.
+
+--------------------------------------------------------------------------------
+
+////////////////////////////////////////////////////////////////////////////////	
+// MONSTER SPRITES /////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Nmn:
+	Zombie SMG
+	Jackboot
+	Jackboot ZM66
+	Imp
+	Pinky
+	Babuin
+	Cacodemon
+	Hell Knight
+	Baron of Hell
+	Mancubus
+	
+Skelegant:
+	Ghost Marine
+	Undead Homeboy
+
+Id Software:
+	Yokai
+	
+Id Software & Superdave938:
+	Lost Soul
+	
+Noiser:
+	Revenant
+	
+Warhawk, Ghastly_Dragon & DELUXE:
+	Jackboot SSG
+	
+HorrorMovieRei:
+	Archvile
+	
+Kinsie & Soulcircle:
+	Healer Imp
+	
+DrPyspy:
+	Zombie ZM66
+	
+thenosid & ndroidz:
+	Chaingunner
+
+Alpha Dog Alliance:
+	Pain Elemental
+	
+TheMisterCat:
+	Spider Mastermind
+	
+Shadesmaster, Raven, & Cryomundus:
+	Putto
+	
+Captain Toenail & Dreadopp:
+	Arachnotron
+	
+Lagi & Rogue Entertainment:
+	Wolfenstein SS
+	
+Hellstorm Archon, Virtue & Rogue Entertainment:
+	Shell-shade
+	
+RNG Breadbug:
+	Imp Fireballer
+	
+Eradrop:
+	Cyberdemon
+	
+Sgt. Shivers:
+	Marine (They/Them/It)
+	
+Lazerus (Illucia) & Cardboard Marty:
+	Marine (She/Her)
+	
+
+////////////////////////////////////////////////////////////////////////////////	
+// PROJECTILE SPRITES //////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Amuscaria:
+	Fatshot
+	
+"/!\ UNKNOWN /!\"
+	Imp Fireball
+	Hell Knight/Baron Fireball
+	Revenant Rocket
+	Archvile fire (taken from Doomer Boards Project 22: Biotech is Godzilla)
+
+
+////////////////////////////////////////////////////////////////////////////////	
+// MONSTER SOUNDS //////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Jason Vande Brake:
+	Jackboot (From Half-Life: Alyx by VALVe)
+	
+Caleb West (CW3D):
+	Zombie SMG (From the Half-Life 2 mod Raising the Bar: Redux, by the RTBR Team)
+	
+Jonathan Brooks:
+	Baron of Hell (From Borderlands 2 by Gearbox Software)
+	
+Charles Campbell:
+	Jackboot ZM (From Borderlands 2 by Gearbox Software)
+	
+Fred Tatasciore:
+	Hell Knight (From Halo 3 by Bungie)
+	
+Gary Schwartz:
+	Chaingunner (From Team Fortress 2 by VALVe)
+	
+Tripwire Interactive:
+	Imp (From Killing Floor)
+	
+Treyarch:
+	Zombie ZM (From Call of Duty: World at War)
+	
+Acrolo & VALVe:
+	Jackboot SSG (From Acrolo's Combine Soldier Revoice mod for Half-Life 2)
+	
+TT Fusion & Warner Bros. Interactive Entertainment:
+	Imp Healer (From Lego Jurassic World)
+	
+Acid Wizard Studio:
+	Imp Fireballer (From Darkwood)
+	
+Bungie:
+	Pain Elemental (From Halo 3)
+	
+Rareware:
+	Undead Homeboy (From Perfect Dark)
