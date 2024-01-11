@@ -1,0 +1,351 @@
+--------------------------------------------------------------------------------
+
+/// ZOMBIEMEN ///
+
+>CYBORG DREG (ZM66 Zombie)
+	
+	The dreadful fate of all who resist the Good Doctor's march, or are simply
+	in the wrong place at the wrong time. Stripped of all that once made them
+	human, these former civilians have been transformed into mindless killing
+	machines.
+	
+	Their arms and armor are grafted permanently to their very flesh, and an 
+	endless stream of tactical stratagem and telemetry data fills their now
+	vacant minds. With a neverending supply of subjects, the Good Doctor's labs 
+	pump out Dregs thousands at a time, ensuring he will never be wanting for 
+	cannon fodder.
+	
+>STABILITY OFFICER (SMG Zombie)
+
+	Those who join the Doctor's employ more willingly are spared such a gruesome
+	end. Instead, they are outfitted with cybernetic implants and standard-issue
+	equipment, and assigned to patrol the Doctor's various territories and
+	installations to ensure his will is enforced. Their thuggish posturing
+	and vocoded barks are typically enough to intimidate the masses into
+	submission, with their auto pistols making a demonstration out of any
+	who dare take a stand. Fear of being "recycled" keeps these traitors in 
+	line.
+	
+>PHANTOM (Shell-shade)
+
+	Just as the Doctor demands specimens for experimentation, so too do his
+	Benefactors. Once in a great while, an especially promising subject
+	is perpared and sent into the Beyond, as a kind of tribute for the
+	Benefactor's knowledge and support. Many of these subjects never return;
+	those that do are changed beyond recognition. Nigh-intangible shades,
+	existing both in our reality and theirs at once. They are almost invisible
+	while in motion. Beware the red light.
+	
+>SCIENTIST (Undead Homeboy, Freedoom-exclusive)
+
+	The Good Doctor does not work alone; indeed, he employs a vast circle
+	of minds to assist him in his dark research. The scientists that bustle
+	about in his labs spend day and night pushing the boundaries of both
+	science and atrocity, dreaming up new unholy abominations to turn loose
+	onto the world.
+	
+	They are an incredibly rare sight on the battlefield and never expect to
+	see much combat, but given the uptick in resistance operations and the
+	volatile nature of the Doctor's beasts, the Scientists do carry handguns
+	for self-defense. They're no match for a proper insurgent or a rampaging
+	mutant, but a gun is a gun.
+	
+
+
+
+/// JACKBOOTS ///
+
+>GOON (Shotgun Jackboot)
+
+	While the Officers provide security at home, the Goons spearhead the
+	Doctor's assaults into new territories. Death squads roam the streets of 
+	prospective zones, kicking in doors and quelling all resistance. Their
+	loyalty to the Doctor proven, they think nothing as they drag away innocents
+	to be processed in one of his many labs.
+	
+>LAB RAT (ZM66 Jackboot)
+	
+	Those who stand against the Doctor will come to know the Lab Rat in time.
+	These bizarre demi-human ratmen often accompany squads of Goons,
+	evaluating captured "specimens" for use in various experiments. While one
+	of the Doctor's lesser creations, they are firm in their belief of their
+	superiority over mankind, believing the results of the Doctor's procedures 
+	on the subjects they send away to be a marked improvement.
+	
+>CYBORG SLEDGE (Super Shotgun Jackboot)
+
+	Another Dreg, this time reinforced with thicker armor and and equipped
+	with a double-barrel. As their name implies, they are wielded like a blunt
+	instrument against those that dare take a stand against the Good Doctor,
+	brutally executing all who dare raise their head in defiance. Tend to be 
+	kept on a short leash by Lab Rats due to their hair-trigger nature.
+
+
+
+
+/// CHAINGUNNERS ///
+
+>FAT BOY (Chaigunner)
+
+	The most far gone of the Doctor's human "volunteers." They are barely human
+	anymore, filled to the brim with cybernetic enhancements and pumped a
+	steady drip-feed of berzerk juice.
+	
+	The name really says it all: they're big, rotund, and carry a massive
+	chaingun. Those that can't find cover are soon full of holes. Often deployed
+	with Goon squads to stomp out armed resistance.
+
+
+
+
+/// IMPS ///
+
+>HOMUNCULUS (Imp)
+
+	The first purely artificial being the Doctor ever conceived, the
+	Homunculus has served many roles: now, it is bred for war. Cheap and
+	effective, it sports an incendiary cannon on its right arm and a 
+	cybernetic visor across its eyes. In truth, the Homunculus is barely a step
+	up above the Dreg; though perhaps it could be considered a small mercy that
+	it knows no life other than what the Doctor gives it.
+	
+>TOURNIQUET (Healer Imp)
+
+	While it is true that the Doctor's labs can simply replace losses without
+	much cost, there is something to be said about getting the most bang for
+	your buck. At least, the Doctor certainly thought so, as early into his
+	march to dominate the world, an offshoot of the Homunculus was created.
+	
+	Known colloquially as the "Tourniquet," these little reptilian bastards
+	accompany the Doctor's mutant hordes as a force multiplier, stitching
+	flesh back together with their arcane power faster than bullets can
+	tear it. A mere handful of Tourniquets are known to turn firefights into
+	sieges.
+	
+>BANSHEE (Imp Fireballer)
+
+	What would have been a standard Homunculus has been infused with some sort
+	of avian DNA from Beyond. The result? An arcane-spitting, fireball-slinging
+	birdman with an unsettling visage and soul-piercing cries. Wildfires follow 
+	in their wake, inspiring terror in all those who would wish of a life free
+	from the Doctor's reign.
+
+
+
+
+/// PINKIES ///
+
+>HOUND (Babuin)
+
+	An abominable hybrid of man's best friend and something from Beyond. The
+	Doctor's Hounds fulfill much the same roles as our Earthly equivalents:
+	attack dogs, sniffer dogs, search and "rescue," you name it. They're all
+	muscle and've got a bad temper, and their bite can crush through most
+	conventional armor. For many unfortunate refugees and runaways, they
+	are often the last thing they meet.
+	
+>BLADE MONKEY (Ninja Pirate)
+
+	While Hounds can often get the job done, sometimes the Doctor's forces
+	require something with the same amount of bite, but with a tinge of 
+	discretion and subtlety. The Blade Monkey is the answer to such a
+	predicament.
+	
+	The Doctor has invested a fair bit more into this beast, and it shows. The
+	arms of this already formidable specimen have been replaced with razor-sharp
+	metal appendages, and the exoskeleton grafted to its shoulders and back
+	comes equipped with a state-of-the-art cloaking device. Couple all of that
+	with the deceptively cunning mind of an apex predator, and you have the
+	perfect tool for making your enemies disappear.
+	
+	
+	
+	
+/// LOST SOUL ///
+
+>WASTE (Lost Soul)
+
+	Born from the combination of the heavy suffering of the Doctor's
+	experiments and the ambient arcane energy involved therein, the Waste
+	is not quite dead, but not quite alive. All it knows is to inflict the
+	pain it feels on others, suicidally flying in to bite at its prey regardless
+	of the odds. Despite the unintended nature of their birth, they seem
+	strangely obedient to the Doctor's will.
+	
+>GRUDGE (Yokai)
+
+	Another byproduct of a heavily arcane atmosphere. These ephemeral "beings"
+	possess no physical way to harm anyone, and yet their gaze alone is known
+	to drive observers to madness, inflicting symptoms of heavy schizophrenia.
+	A few bullets aimed their way seems to scare them off, though the lasting
+	psychological damage caused by prolonged exposure has been known to send
+	event the most zealous of resistance fighters into a deep depression.
+	
+	
+	
+	
+/// CACODEMON ///
+
+>BLIGHTER (Cadodemon)
+
+	The Homunculus takes to the air. As the Doctor's primary air support, the
+	Blighter spits arcane hellfire down on its prey from above. For those that
+	get too close, its claws can just as easily rip its target to shreds. Its
+	got a notably thicker hide than its grounded cousin, as well.
+	
+>DRONE (Putto)
+	
+	One of the few automatons not made by the Doctor himself, instead sent
+	by his Benefactors to support his hordes. They lazily drift through the
+	air, raining down hellfire and those unfortunate enough to be below. All
+	attempts by resistance cells to study these creations have proven futile,
+	as they always completely disintegrate upon being destroyed.
+
+
+
+
+/// HELL KNIGHT ///
+
+>BRUISER (Hell Knight)
+
+	The Doctor's premier shock troops. Born in a vat through a combination of
+	human and "*&?!@" DNA, this hulking bastard is bigger, tougher, stronger,
+	and more loyal to the cause than any human could ever hope to be. Armed
+	with Plasma Rifles infused with arcane hellfire and tailored to the Good
+	Doctor's specifications, Bruisers are called upon to put down more 
+	stubborn pockets of resistance, often to great success. Few have ever met
+	them and lived.
+	
+	
+	
+	
+/// BARON OF HELL ///
+
+>HONCHO (Baron of Hell)
+
+	The Honcho is one of the Doctor's crowning achievments in artificial life.
+	They are larger and stronger than even the mighty Bruiser, and yet unlike 
+	their little brothers, they possess a remarkable intelligence, far above the
+	animalistic cunning of the Blade Monkey. They are the Good Doctor's trusted
+	lieutenants, leading his hordes to victory across the world and plotting
+	the downfall of all who would resist his perfection.
+	
+	No one knows how a Honcho is made compared to a Bruiser. Though they are of
+	the same blood, the Honcho's distinctive rarity suggests some kind of
+	x-factor necessary in their development. Some believe that while Bruisers
+	are fully vat-grown, Honchos are made from quality specimens, perhaps even
+	hand-picked by the Benefactors themselves.
+
+
+
+
+/// ARACHNOTRON ///
+
+>RACHNOID (Arachnotron)
+
+	This vaguely-arachnid alien cyborg is a kind of infantry fighting vehicle 
+	for the Doctor's hordes. While slow, their Thunder Buster melts shields and
+	armor alike, leaving little but arcing lightning in the aftermath. They are 
+	the bane of resistance assault teams everywhere, with entire squads being
+	said to disappear in a single flash of light and a thunderclap.
+	
+	
+	
+	
+/// PAIN ELEMENTAL ///
+
+>VISITOR (Pain Elemental)
+
+	Few have claimed to have even laid eyes on one of these things, let alone
+	survived an encounter with it. Those that do all agree: whatever it is, it
+	is not of this Earth, and never was. They seem to thrive in the ambient
+	suffering and magics that create Wastes, as they themselves can channel it
+	to manifest even more of the little shits.
+	
+	One man who claimed to have killed one says that they do not truly die, they
+	merely return home. And in their wake, they leave nothing but Waste.
+	
+	
+	
+
+/// REVENANT ///
+
+>MARAUDER (Revenant)
+
+	An unfortunate offshoot of the Dreg procedure. Particularly promising
+	subjects are imbued with arcane power during the process, causing them to
+	grow much too tall and shed most of their skin. Once the armor and rocket
+	pods are grafted to them, they are set loose to wreak havoc across the
+	land.
+	
+	Knowing only rage, these rabid skeletal demonmen thrash and blast away at 
+	anything that irks them. Their armor and weaponry is a strange mix of 
+	cutting-edge technology and arcane power, and those that have witnessed them 
+	in action claimed to suffer visual hallucinations, having quote:
+	"seen faces in the hellfire."
+	
+
+
+
+/// MANCUBUS ///
+
+>HARKCUBUS (Mancubus)
+
+	Another offshoot of the Homunculus, this one with much greater investment.
+	More arcane-stimulated growth is at work here, adding massive bulk in order
+	to support the twin Heavy Incendiary Cannons grafted to its arms. These
+	montrosities are walking siege cannons, laying waste to outlying settlements
+	and rendering all in their way to ash.
+	
+	
+	
+	
+/// ARCHVILE ///
+
+>ENVOY (Archvile)
+
+	On rare occasions, the Benefactors will send one of their chosen servants
+	to personally oversee the Good Doctor's operations. These are the most
+	powerful of the Benefactors' conquered races, a once proud people who
+	were nigh-unmatched in the arcane in their time. Now, they serve their
+	conquerers as advisors and overseers, only setting foot on the battlefield
+	when it is most critical.
+	
+	This is not to say, however, that they are cowardly or weak. They are 
+	anything but: Envoys have been known to singlehandedly wipe out entire
+	marine squads with their electric magicks. What's more, they are capable
+	of hiding themselves from the perception of organic and machine life alike,
+	and can ressurect the fallen from death.
+	
+	It is rumored, however, that certain Envoys retain a certain pride in
+	their ancestral heritage, and use their positions of authority to blindside
+	the Doctor's forces, going on a rampage before eventually being put down.
+	I wouldn't count on a rumor if I were you, but hey, you never know.
+	
+
+
+
+/// THE SPIDER MASTERMIND ///
+
+>THE HIVE MOTHER (Spider Mastermind)
+
+	It is unclear what exactly drove the Good Doctor to create this wasp-like
+	gargantuan abomination. Even by his standards, it is gaudy and indulgent,
+	and it certainly could not have been the Benefactor's influence, as there
+	is no purpose behind such bizarre design. Yet, strange as it may be, The
+	Hive Mother is no doubt a frighteningly effective war machine, with a
+	minigun that can level buildings and armor that rends all but the heaviest
+	off small arms useless. None have survived its wrath.
+	
+	
+	
+	
+/// THE CYBER DEMON ///
+
+>THE TECHNOBEAST (Cyber Demon)
+
+	A towering cybernetic war machine of unparalleled might. Armed with a
+	massive missile launcher grafted to its arm, and two massive hooves with
+	which to crush anything in its way. The Technobeast is only deployed under
+	the most extreme of circumstances: for many resistance fighters, it is the
+	stuff of myth, the kind that no one ever hopes to meet.
